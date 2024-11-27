@@ -1,5 +1,5 @@
 SRC=examples/tex/
-V=examples/hellodecoder.py
+V=examples/tex/tex.py
 
 run:
 	env LC_ALL=C python3 main.py $(V)
